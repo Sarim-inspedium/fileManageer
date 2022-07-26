@@ -302,7 +302,7 @@ if ($use_auth) {
                                 <form class="form-signin" action="" method="post" autocomplete="off">
                                     <div class="form-group">
                                        <div class="brand">
-                                            <img version="1.0" src="https://ik.imagekit.io/inspedium/new_iJ82OeUv_?ik-sdk-version=javascript-1.4.3&updatedAt=1651220571572" M1008 width="100%" height="auto" viewBox="0 0 238.000000 140.000000" aria-label="Cloud Inspedium File Manager">
+                                            <img version="1.0" src="https://ik.imagekit.io/inspedium/inspcloud_TYcGk9JFp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658840636861" M1008 width="100%" height="auto" viewBox="0 0 238.000000 140.000000" aria-label="Cloud Inspedium File Manager">
                                             </img>
                                         </div>
                                         <!-- <div class="text-center">
